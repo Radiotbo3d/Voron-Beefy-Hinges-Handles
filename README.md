@@ -17,7 +17,7 @@
 ### What is this?
 
 I was tired of having very flimsy thin hinges that may break, but I also didn't wanned to spend my money on a clicky clacky door, so I designed thse extreamly beefy Hinges + a very beefy pair of handles that
-wouldn't break.
+wouldn't break. The Beefy handle was created to perfectly distribute the stresses on the doors to deform the top and bottom of the doors equaly, they should also make your openig and closing doors experience much better.
 
 #### Changes compared to stock hinges:
 - They WILL NOT BREAK
@@ -29,6 +29,7 @@ wouldn't break.
 - They use magnets to create a much better seal
 - They are VERY easy to remove, (just pull out the axles/M5 screws)
 - I suggest you use a brim when you print them to avoid warping.
+- you still need to have the Stock or another version of the stock handles to create a better seal at the top/bottom in the middle of your doors
 
 ## BOM
 
