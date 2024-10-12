@@ -1,7 +1,7 @@
 # SBFI (Smooth Beefy Front Idlers)
 
-![SBFI family render](Images/SBFI_2.4.png)
-![SBFI family render](Images/SBFI_Trident.png)
+![SBFI family render](Images/Image1.png)
+![SBFI family render](Images/Image2.png)
 
 ### What is this?
 
