@@ -2,8 +2,14 @@
 
 ![SBFI family render](Images/Image1.png)
 ![SBFI family render](Images/Image4.png)
+
+### Handles
 ![SBFI family render](Images/Image5.png)
+
+### Stealth/Sharp/Voron stlye hinges
 ![SBFI family render](Images/Image2.png)
+
+### Rounded hinges
 ![SBFI family render](Images/Image3.png)
 
 ### What is this?
@@ -26,7 +32,7 @@ wouldn't break.
 - 1mm VHB tape
 
 ### Handles
-- 8x 6x3mm magnets (6mm diameter 3mm thick)
+- 4x 6x3mm magnets (6mm diameter 3mm thick)
 - 1mm VHB tape
 
 # Contributors
