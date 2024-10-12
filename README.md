@@ -24,6 +24,12 @@ wouldn't break.
 - They have a MUCH Bigger surface contact area for VHB tape so that it doesn't come off
 - You will have a better seal since you need to use a 1mm foam tape
 
+#### Other things you might want to know:
+- they are meant to be used with 3mm thick panels (this can easly be changed in cad) with 1mm foam an 1mm VHB tape
+- They use magnets to create a much better seal
+- They are VERY easy to remove, (just pull out the axles/M5 screws)
+- I suggest you use a brim when you print them to avoid warping.
+
 ## BOM
 
 ### Hinges
