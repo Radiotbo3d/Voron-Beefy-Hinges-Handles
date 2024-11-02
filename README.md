@@ -23,7 +23,7 @@ wouldn't break. The Beefy handle was created to perfectly distribute the stresse
 - They WILL NOT BREAK
 - They have a MUCH Bigger surface contact area for VHB tape so that it doesn't come off
 - You will have a better seal since you need to use a 1mm foam tape
-- You have a version that supports [monolith gantry](https://github.com/CloakedWayne/Monolith_Gantry_V2-VT) spacing, my version has 6mm clearance space
+- You have a version that supports [monolith gantry](https://github.com/CloakedWayne/Monolith_Gantry_V2-VT) spacing, (my version has 6mm clearance space with 3mm thick front doors and 6mm this foam)
 
 #### Other things you might want to know:
 - they are meant to be used with 3mm thick panels (this can easly be changed in cad) with 1mm foam an 1mm VHB tape
