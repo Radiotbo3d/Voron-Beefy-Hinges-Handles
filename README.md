@@ -46,7 +46,7 @@ wouldn't break. The Beefy handle was created to perfectly distribute the stresse
 - 1mm VHB tape
 <br/>
 
-[![support me](https://github.com/Radiotbo3d/SBFI/blob/main/Images/kofi_button.png)](https://ko-fi.com/radiotbo)
+[![support me](https://github.com/Radiotbo3d/Voron-Beefy-Hinges-Handles/blob/main/Images/kofi_button.png)](https://ko-fi.com/radiotbo)
 <br/>
 
 # Contributors
