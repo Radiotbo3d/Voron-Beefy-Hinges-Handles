@@ -44,7 +44,9 @@ wouldn't break. The Beefy handle was created to perfectly distribute the stresse
 ### Handles
 - 4x 6x3mm magnets (6mm diameter 3mm thick)
 - 1mm VHB tape
-
+<br/>
+[![support me](https://github.com/Radiotbo3d/SBFI/blob/main/Images/kofi_button.png)](https://ko-fi.com/radiotbo)
+<br/>
 # Contributors
 Non so far, however, if you provide feedback your name will be here
 
